@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\bin\Debug\net6.0\Average_Calculation.exe
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\bin\Debug\net6.0\Average_Calculation.deps.json
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\bin\Debug\net6.0\Average_Calculation.runtimeconfig.json
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\bin\Debug\net6.0\Average_Calculation.dll
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\bin\Debug\net6.0\Average_Calculation.pdb
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\Average_Calculation.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\Average_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\Average_Calculation.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\Average_Calculation.AssemblyInfo.cs
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\Average_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\Average_Calculation.dll
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\refint\Average_Calculation.dll
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\Average_Calculation.pdb
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\Average_Calculation.genruntimeconfig.cache
+C:\Users\PC\source\repos\Fundamentals_Project\Average_Calculation\obj\Debug\net6.0\ref\Average_Calculation.dll
