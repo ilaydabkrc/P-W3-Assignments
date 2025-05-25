@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\bin\Debug\net6.0\Fundamentals_Project1.exe
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\bin\Debug\net6.0\Fundamentals_Project1.deps.json
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\bin\Debug\net6.0\Fundamentals_Project1.runtimeconfig.json
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\bin\Debug\net6.0\Fundamentals_Project1.dll
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\bin\Debug\net6.0\Fundamentals_Project1.pdb
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\Fundamentals_Project1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\Fundamentals_Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\Fundamentals_Project1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\Fundamentals_Project1.AssemblyInfo.cs
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\Fundamentals_Project1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\Fundamentals_Project1.dll
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\refint\Fundamentals_Project1.dll
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\Fundamentals_Project1.pdb
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\Fundamentals_Project1.genruntimeconfig.cache
+C:\Users\PC\source\repos\Fundamentals_Project1\Fundamentals_Project1\obj\Debug\net6.0\ref\Fundamentals_Project1.dll
