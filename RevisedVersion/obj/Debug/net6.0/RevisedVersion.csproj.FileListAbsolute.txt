@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Week4\RevisedVersion\bin\Debug\net6.0\RevisedVersion.exe
+C:\Users\PC\source\repos\Week4\RevisedVersion\bin\Debug\net6.0\RevisedVersion.deps.json
+C:\Users\PC\source\repos\Week4\RevisedVersion\bin\Debug\net6.0\RevisedVersion.runtimeconfig.json
+C:\Users\PC\source\repos\Week4\RevisedVersion\bin\Debug\net6.0\RevisedVersion.dll
+C:\Users\PC\source\repos\Week4\RevisedVersion\bin\Debug\net6.0\RevisedVersion.pdb
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\RevisedVersion.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\RevisedVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\RevisedVersion.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\RevisedVersion.AssemblyInfo.cs
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\RevisedVersion.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\RevisedVersion.dll
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\refint\RevisedVersion.dll
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\RevisedVersion.pdb
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\RevisedVersion.genruntimeconfig.cache
+C:\Users\PC\source\repos\Week4\RevisedVersion\obj\Debug\net6.0\ref\RevisedVersion.dll
